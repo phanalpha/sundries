@@ -1,0 +1,5 @@
+<form class="inline">
+  <input name="wording" value="<%= @wording %>" />
+  <button type="submit">Submit</button>
+</form>
+<p class="number"><%= @number %></p>
